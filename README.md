@@ -2,17 +2,6 @@
 
 <img src="./assets/wenskills-hero.png" width="100%" alt="WenSkills terminal hero banner" />
 
-# WenSkills
-
-### Développeuse full-stack · product builder · webdesign lover
-
-Je construis des applications avec une obsession simple :  
-**des interfaces qui donnent envie d’être utilisées, et une architecture solide derrière.**
-
-<br/>
-
-
-
 <br/>
 
 ![Focus](https://img.shields.io/badge/focus-full--stack%20web-0B0F0D?style=for-the-badge&labelColor=0B0F0D&color=AEB852)
