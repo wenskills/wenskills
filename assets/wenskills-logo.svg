@@ -1,0 +1,13 @@
+<svg width="240" height="240" viewBox="0 0 240 240" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="240" height="240" rx="46" fill="#030706"/>
+  <rect x="16" y="16" width="208" height="208" rx="38" fill="#08100C" stroke="#263021" stroke-width="2"/>
+  <path d="M47 72L70 166L98 98L122 166L153 98L172 166L194 72" stroke="#DCD3C4" stroke-width="12" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M82 74H165" stroke="#AEB852" stroke-width="10" stroke-linecap="round"/>
+  <path d="M98 116H154" stroke="#8A9648" stroke-width="10" stroke-linecap="round"/>
+  <path d="M70 168H190" stroke="#B89956" stroke-width="10" stroke-linecap="round"/>
+  <circle cx="192" cy="50" r="6" fill="#AEB852"/>
+  <circle cx="48" cy="192" r="5" fill="#B89956"/>
+  <path d="M28 45V28H45" stroke="#4C5532" stroke-width="2"/>
+  <path d="M212 195V212H195" stroke="#4C5532" stroke-width="2"/>
+  <text x="120" y="211" text-anchor="middle" font-family="monospace" font-size="13" fill="#8B9270">wenskills</text>
+</svg>
