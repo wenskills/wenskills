@@ -416,7 +416,5 @@ Je suis particulièrement intéressée par les environnements où l’on constru
 
 <img src="./assets/wenskills-divider.svg" width="100%" alt="section divider" />
 
-### `connect.api`
-
 **WenSkills**  
 _building with taste, logic and intention._
