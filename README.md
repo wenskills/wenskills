@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/wenskills-logo.svg" width="118" alt="WenSkills logo" />
+<img src="./assets/wenskills-hero.png" width="100%" alt="WenSkills terminal hero banner" />
 
 # WenSkills
 
@@ -11,7 +11,7 @@ Je construis des applications avec une obsession simple :
 
 <br/>
 
-<img src="./assets/wenskills-hero.png" width="100%" alt="WenSkills terminal hero banner" />
+
 
 <br/>
 
