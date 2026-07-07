@@ -420,17 +420,3 @@ Je suis particulièrement intéressée par les environnements où l’on constru
 
 **WenSkills**  
 _building with taste, logic and intention._
-
-<br/>
-
-[![Portfolio](https://img.shields.io/badge/portfolio-à%20compléter-0B0F0D?style=for-the-badge&logo=vercel&logoColor=AEB852&labelColor=0B0F0D&color=AEB852)](#)
-[![LinkedIn](https://img.shields.io/badge/linkedin-à%20compléter-0B0F0D?style=for-the-badge&logo=linkedin&logoColor=AEB852&labelColor=0B0F0D&color=AEB852)](#)
-[![Email](https://img.shields.io/badge/email-à%20compléter-0B0F0D?style=for-the-badge&logo=gmail&logoColor=AEB852&labelColor=0B0F0D&color=AEB852)](#)
-
-<br/>
-
-```txt
-READY. 
-```
-
-</div>
