@@ -1,9 +1,5 @@
 <div align="center">
 
-<img src="./assets/wenskills-hero.png" width="100%" alt="WenSkills terminal hero banner" />
-
-<br/>
-
 ![Focus](https://img.shields.io/badge/focus-full--stack%20web-0B0F0D?style=for-the-badge&labelColor=0B0F0D&color=AEB852)
 ![Mindset](https://img.shields.io/badge/mindset-product%20%26%20design-0B0F0D?style=for-the-badge&labelColor=0B0F0D&color=B89956)
 ![Interest](https://img.shields.io/badge/interest-IA%20utile%20%2F%20NLP-0B0F0D?style=for-the-badge&labelColor=0B0F0D&color=8A9648)
@@ -175,7 +171,6 @@ Ce projet représente un autre type de défi : comprendre une application exista
 </tr>
 </table>
 
-<img src="./assets/wenskills-divider.svg" width="100%" alt="section divider" />
 
 ## `selected.projects`
 
@@ -190,9 +185,9 @@ j’y explore des idées produit, des architectures, des interfaces, des sujets 
 
 <img src="./assets/clutchr-cover.png" width="100%" alt="Clutchr cover" />
 
-### Clutchr
+### Clutchr (ancien Pulzr)
 
-**Copilote de recherche d’emploi**
+**Copilote de recherche d’emploi et d'optimisation Linkedin**
 
 Clutchr remplace le tableur de suivi de candidatures par un copilote actif.
 
