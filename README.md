@@ -60,9 +60,6 @@ Matching, scoring, analyse textuelle, RAG, génération assistée, recommandatio
 
 <div align="center">
 
-<img src="./assets/stack-matrix.png" width="100%" alt="Stack matrix" />
-
-<br/>
 
 ![Java](https://img.shields.io/badge/Java-0B0F0D?style=flat-square&logo=openjdk&logoColor=AEB852)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-0B0F0D?style=flat-square&logo=springboot&logoColor=AEB852)
